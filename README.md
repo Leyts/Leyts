@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Leyts
+- 👀 I’m interested in Python, SQL, C# and Angular
