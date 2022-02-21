@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Leyts
-- 👀 I’m interested in Python, SQL, C# and Angular
+- 👀 I’m interested in Python, SQL, self-hosting, home automation, home lab, Docker and Raspberry Pi projects
